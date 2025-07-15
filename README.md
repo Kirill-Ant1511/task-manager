@@ -9,6 +9,15 @@
 7. socket.io - для чата
 8. i18next - для перевода сайта на другие языки
 
+# Completed Screenshots
+
+<div>
+  <img src='/README_photo/light-theme.png' />
+  <img src='/README_photo/dark-theme.png' />
+  <img src='/README_photo/green-theme.png' />
+
+<div>
+
 # ❤️ Design
 
 <div>
