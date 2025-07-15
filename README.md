@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛠️ Stack
 
-## Getting Started
+1. Next js(full server)
+2. TypeScript
+3. TRPS - метод обмена между сервером и фронтом
+4. Radix - UI библиотка, где берём компоненты и сами стилизуем
+5. Mobx - state manager
+6. react-hook-form + zod - для работы с формами
+7. socket.io - для чата
+8. i18next - для перевода сайта на другие языки
 
-First, run the development server:
+# ❤️ Design
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<div>
+  <img src='/public/2025-07-13 00.16.28.jpg' />
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 🚀 Feature
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Add Today Tasks Table
+- Add 'Welcome' Page
+- Add Profile Info
+- Add other pages(I will come up with this myself)
+- Add work chat
+- Add authentication/authorization
+- I will add a lot of interesting things...
